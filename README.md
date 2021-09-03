@@ -110,13 +110,13 @@ Download the environment from one of the links below. You need only select the e
 
 <p>(<em>For AWS</em>) If you'd like to train the agent on AWS (and have not <a target="_blank" href="https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-on-Amazon-Web-Service.md">enabled a virtual screen</a>), then please use <a target="_blank" href="https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux_NoVis.zip">this link</a> to obtain the "headless" version of the environment.  You will <strong>not</strong> be able to watch the agent without enabling a virtual screen, but you will be able to train the agent.  (<em>To watch the agent, you should follow the instructions to <a target="_blank" href="https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-on-Amazon-Web-Service.md">enable a virtual screen</a>, and then download the environment for the <strong>Linux</strong> operating system above.</em>)</p>
 
-Place the file in the DRLND GitHub repository, in the p1_navigation/ folder, and unzip (or decompress) the file.
+Place the file in the DRLND GitHub repository, in the <code>p1_navigation/</code> folder, and unzip (or decompress) the file.
 
 # Instructions
-Follow the instructions in DQN/ and DoubleDQN/ to get started with training the agents agent!
+Follow the instructions in <code>DQN/</code> and <code>DoubleDQN/</code> folders to get started with training the agents agent!
 
 # Implementation Details
-All implementation details and results are found in Report/
+All implementation details and results are found in <code>Report/</code> folder
 
 # References
 <ul>
