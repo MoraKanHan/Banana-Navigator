@@ -5,7 +5,7 @@ For this project, a DQN and Double DQN agents were implemented and trained to na
 <img class="image--26lOQ" src="https://video.udacity-data.com/topher/2018/June/5b1ab4b0_banana/banana.gif" alt="" width="400px">
 
 <h3>Rewards</h3>
-A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana. Thus, the goal of Double DQN agent is to collect as many yellow bananas as possible while avoiding blue bananas.
+A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana. Thus, the goal of DQN and Double DQN agents is to collect as many yellow bananas as possible while avoiding blue bananas.
 
 <h3>Environment</h3>
 The state space has 37 dimensions and contains the agent's velocity, along with ray-based perception of objects around agent's forward direction. Given this information, the agent has to learn how to best select actions. Four discrete actions are available, corresponding to:
@@ -119,10 +119,11 @@ Follow the instructions in DQN/ and DoubleDQN/ to get started with training the 
 All implementation details and results are found in Report/
 
 # References
-[1]: V. Mnih et al., "Human-level control through deep reinforcement learning", Nature, vol. 518, no. 7540, pp. 529-533, 2015. Available: 10.1038/nature14236 [Accessed 3 September 2021].
-[2]: U. Technologies, "Machine Learning Agents | Unity", Unity, 2021. [Online]. Available: https://unity.com/products/machine-learning-agents. [Accessed: 03- Sep- 2021]. 
-[3]: R. Sutton and A. Barto, Reinforcement Learning, 2nd ed. 2019.
-[4]: H. van Hasselt, A. Guez and D. Silver, "Deep Reinforcement Learning with Double Q-learning", 2015. [Accessed 3 September 2021].
-[5]: M. Hessel et al., "Rainbow: Combining Improvements in Deep Reinforcement Learning", 2021. [Accessed 3 September 2021]. 
-
+<ul>
+    <li>[1]: V. Mnih et al., "Human-level control through deep reinforcement learning", Nature, vol. 518, no. 7540, pp. 529-533, 2015. Available: 10.1038/nature14236 [Accessed 3 September 2021].
+<li>[2]: U. Technologies, "Machine Learning Agents | Unity", Unity, 2021. [Online]. Available: https://unity.com/products/machine-learning-agents. [Accessed: 03- Sep- 2021]. 
+<li>[3]: R. Sutton and A. Barto, Reinforcement Learning, 2nd ed. 2019.
+<li>[4]: H. van Hasselt, A. Guez and D. Silver, "Deep Reinforcement Learning with Double Q-learning", 2015. [Accessed 3 September 2021].
+<li>[5]: M. Hessel et al., "Rainbow: Combining Improvements in Deep Reinforcement Learning", 2021. [Accessed 3 September 2021]. 
+</ul>
 
