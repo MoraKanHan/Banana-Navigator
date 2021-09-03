@@ -1,6 +1,6 @@
 # Project 1: Navigation
 <h3>Introduction</h3>
-For this project, a DQN and Double DQN agents were implemented and trained to navigate (and collect bananas!) in a large, square world.
+For this project, a DQN and Double DQN agents were implemented and trained to navigate (and collect bananas!) in a large, square world. This project is part of the Deep Reinforcement Learning Nanodegree program.
 
 <img class="image--26lOQ" src="https://video.udacity-data.com/topher/2018/June/5b1ab4b0_banana/banana.gif" alt="" width="400px">
 
