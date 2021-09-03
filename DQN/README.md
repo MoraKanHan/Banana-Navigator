@@ -2,7 +2,7 @@
 <h3>Introduction</h3>
 For this project, a DQN agent to navigate (and collect bananas!) in a large, square world.
 
-Trained Agent
+<img class="image--26lOQ" src="https://video.udacity-data.com/topher/2018/June/5b1ab4b0_banana/banana.gif" alt="" width="400px">
 
 <h3>Rewards</h3>
 A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana. Thus, the goal of DQN agent is to collect as many yellow bananas as possible while avoiding blue bananas.
